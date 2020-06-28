@@ -85,6 +85,6 @@ velero:
   schedule: ""
   ttl: ""
 versionStream:
-  ref: 2.1.88+cjxd.12
+  ref: d0264f45a9cbc2697f899fca32cb322445f08b68
   url: https://github.com/cloudbees/cloudbees-jenkins-x-versions.git
 webhook: prow
